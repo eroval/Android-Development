@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">my-intent-test</string>
+    <string name="chooser_title">choose-a-title</string>
+</resources>
